@@ -17,3 +17,7 @@ interface katmanı <br/>
 entity katmanı <br/>
 veri erişim katmanı <br/>
 iş katmanı <br/>
+
+
+![alt text](https://github.com/alperclk/Layered-Architecture-with-Northwind-database/blob/master/screenshot/screenshot.PNG)
+![alt text](https://github.com/alperclk/Layered-Architecture-with-Northwind-database/blob/master/screenshot/screenshot2.PNG)
