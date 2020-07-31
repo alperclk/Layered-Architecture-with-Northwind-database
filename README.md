@@ -1,3 +1,6 @@
+![alt text](https://github.com/alperclk/Layered-Architecture-with-Northwind-database/blob/master/screenshot/screenshot2.PNG)
+
+
 # Layered-Architecture-with-Northwind-database
 Layered architecture example was made using the northwind database.
 
@@ -20,4 +23,3 @@ iş katmanı <br/>
 
 
 ![alt text](https://github.com/alperclk/Layered-Architecture-with-Northwind-database/blob/master/screenshot/screenshot.PNG)
-![alt text](https://github.com/alperclk/Layered-Architecture-with-Northwind-database/blob/master/screenshot/screenshot2.PNG)
